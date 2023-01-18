@@ -160,3 +160,4 @@ document.addEventListener('keydown', function (event) {
   }
 
 });
+alert ("Welcome to Arithmetician") 
